@@ -18,6 +18,7 @@ own via pull request!
 * [Smith archivesspace Python Module](https://smithcollegelibraries.github.io/archivesspace-python/)
 * [Outline of UAlbany Draft Library](ualbanyExample.md)
 * [Yale University Links](Yale_Links.md)
+* [UW-Oshkosh aspace Python module](https://github.com/polkmetadatalib/aspace)
 
 ## Requirements
 ArchivesSnake has the following requirements.
